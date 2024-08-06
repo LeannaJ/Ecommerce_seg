@@ -1,0 +1,1469 @@
+User ID,Gender,Location,Periods
+USER_1358,male,Chicago,12
+USER_0190,male,California,43
+USER_0066,male,Chicago,33
+USER_0345,female,California,30
+USER_0683,male,California,49
+USER_0730,male,California,32
+USER_0585,female,New York,46
+USER_1347,female,New Jersey,24
+USER_0736,female,Chicago,40
+USER_0541,male,California,43
+USER_0922,male,Chicago,49
+USER_1421,female,California,10
+USER_1249,female,New York,19
+USER_0906,female,Washington DC,40
+USER_0954,female,California,30
+USER_0025,female,New Jersey,14
+USER_1267,female,Chicago,25
+USER_1277,male,Chicago,50
+USER_0337,female,Chicago,39
+USER_0344,female,Chicago,21
+USER_0281,male,Chicago,30
+USER_0351,female,Chicago,29
+USER_1383,male,New Jersey,26
+USER_0284,female,California,41
+USER_0867,female,California,24
+USER_0783,female,Chicago,21
+USER_0130,female,Washington DC,26
+USER_0947,male,Chicago,40
+USER_0412,female,California,14
+USER_0484,female,California,28
+USER_1378,female,California,15
+USER_1382,female,California,18
+USER_0138,female,California,31
+USER_0251,male,California,15
+USER_1030,female,California,27
+USER_1424,male,Chicago,34
+USER_0349,male,Washington DC,46
+USER_0334,female,California,44
+USER_0895,male,New York,25
+USER_0630,female,New Jersey,45
+USER_1395,male,New York,33
+USER_0946,male,New York,49
+USER_1376,male,Washington DC,19
+USER_1236,male,Chicago,34
+USER_1020,female,California,27
+USER_1175,female,New York,49
+USER_1389,female,Chicago,36
+USER_0595,male,Washington DC,43
+USER_0118,female,Chicago,28
+USER_0657,female,California,42
+USER_0147,female,California,8
+USER_1284,female,Chicago,49
+USER_0420,female,New York,7
+USER_0403,female,New York,10
+USER_0085,male,Chicago,21
+USER_0786,male,New York,48
+USER_0466,female,Chicago,39
+USER_1377,male,New York,42
+USER_0776,male,New York,25
+USER_0026,male,California,32
+USER_1129,female,New York,15
+USER_0745,male,California,48
+USER_0808,female,California,21
+USER_1438,female,California,26
+USER_0881,male,Chicago,29
+USER_0560,male,California,5
+USER_0694,female,New Jersey,36
+USER_0643,female,California,34
+USER_0996,male,California,47
+USER_1355,male,California,21
+USER_0034,female,New Jersey,2
+USER_1224,female,New Jersey,12
+USER_1303,female,California,33
+USER_1369,male,California,26
+USER_0205,male,California,35
+USER_0156,male,New York,49
+USER_0288,male,New York,33
+USER_1337,female,New Jersey,45
+USER_1120,female,California,19
+USER_0913,male,New Jersey,12
+USER_0961,female,California,43
+USER_0531,female,California,47
+USER_0587,male,New York,48
+USER_1015,male,California,2
+USER_1141,female,Chicago,45
+USER_0353,female,California,7
+USER_1317,female,Chicago,6
+USER_0165,male,California,48
+USER_1260,female,California,35
+USER_1456,male,New York,16
+USER_0438,female,Chicago,21
+USER_1153,female,California,10
+USER_0195,female,Chicago,32
+USER_0563,female,Chicago,33
+USER_1091,male,Chicago,11
+USER_0718,female,New Jersey,23
+USER_0312,male,New York,23
+USER_1406,male,California,7
+USER_0203,male,New Jersey,4
+USER_0828,female,New York,41
+USER_0602,male,California,32
+USER_0340,male,California,23
+USER_0427,female,Chicago,41
+USER_1330,female,Chicago,8
+USER_0144,female,New York,33
+USER_0840,female,New York,27
+USER_1359,female,New York,13
+USER_0413,female,California,10
+USER_1384,male,New York,12
+USER_0391,female,New York,38
+USER_1138,male,California,40
+USER_0437,female,Chicago,21
+USER_0212,female,Chicago,45
+USER_0033,female,California,11
+USER_0806,female,Chicago,46
+USER_0282,female,New York,22
+USER_0607,male,New York,24
+USER_0820,male,Chicago,24
+USER_0496,female,California,6
+USER_0641,female,Chicago,4
+USER_1411,male,Washington DC,30
+USER_0889,female,California,49
+USER_0677,female,Washington DC,39
+USER_0953,female,New York,36
+USER_0687,male,New Jersey,9
+USER_0498,male,Chicago,37
+USER_1016,female,California,42
+USER_0721,female,Chicago,45
+USER_0261,female,Chicago,38
+USER_0530,female,California,6
+USER_0417,female,Chicago,22
+USER_0882,female,Chicago,34
+USER_1071,male,New York,42
+USER_1204,female,Washington DC,45
+USER_0751,male,New York,32
+USER_0154,female,Washington DC,3
+USER_0791,male,Chicago,22
+USER_0837,male,New Jersey,16
+USER_0911,female,Chicago,16
+USER_1237,male,New Jersey,17
+USER_0856,female,Chicago,3
+USER_0447,female,California,11
+USER_0216,male,New Jersey,30
+USER_1114,female,New York,7
+USER_1392,male,New Jersey,5
+USER_0525,female,Chicago,18
+USER_1193,male,California,12
+USER_1007,female,California,39
+USER_1346,female,California,13
+USER_0685,female,New York,20
+USER_1398,male,Washington DC,12
+USER_0520,male,New Jersey,39
+USER_0860,female,Chicago,9
+USER_1080,female,New York,38
+USER_1276,male,Chicago,41
+USER_0293,female,Chicago,16
+USER_0941,female,New York,18
+USER_1316,male,Washington DC,37
+USER_1287,male,California,25
+USER_0836,female,Chicago,21
+USER_0221,female,California,21
+USER_0855,male,New York,27
+USER_1282,female,California,9
+USER_0675,male,California,7
+USER_0944,male,California,9
+USER_0816,female,California,30
+USER_0800,female,New York,5
+USER_1076,female,Chicago,26
+USER_1354,female,California,14
+USER_1190,male,Chicago,42
+USER_0627,male,California,15
+USER_1246,female,California,19
+USER_0407,female,Chicago,17
+USER_0610,female,Chicago,25
+USER_0172,female,Washington DC,43
+USER_0858,male,Chicago,12
+USER_1307,female,California,33
+USER_0733,male,Chicago,25
+USER_0818,male,California,10
+USER_0394,female,New Jersey,22
+USER_0518,female,New Jersey,41
+USER_0441,female,California,5
+USER_1133,female,California,50
+USER_0279,male,Chicago,42
+USER_1442,female,Chicago,5
+USER_1336,female,New York,45
+USER_0568,female,Chicago,14
+USER_0182,female,New York,18
+USER_0358,male,California,37
+USER_0758,male,California,30
+USER_0475,male,Chicago,16
+USER_0259,female,New York,33
+USER_1072,female,New Jersey,5
+USER_1037,female,New York,33
+USER_1459,male,New York,20
+USER_0556,female,Chicago,26
+USER_0225,female,California,4
+USER_0499,male,New Jersey,4
+USER_0632,female,New Jersey,8
+USER_0682,male,California,46
+USER_0115,male,New York,42
+USER_0935,female,Washington DC,34
+USER_1279,female,New York,44
+USER_0465,female,Chicago,18
+USER_1391,female,California,10
+USER_0555,male,California,40
+USER_1169,female,California,45
+USER_1240,female,California,13
+USER_0457,female,California,25
+USER_0170,female,New York,34
+USER_0097,male,Chicago,30
+USER_0582,male,California,26
+USER_0719,male,New York,40
+USER_1454,female,New Jersey,28
+USER_0274,male,Washington DC,41
+USER_1101,female,Washington DC,37
+USER_0300,female,Chicago,19
+USER_0140,female,California,19
+USER_1111,female,New York,33
+USER_0023,female,New York,37
+USER_1394,female,Chicago,6
+USER_1104,male,Chicago,12
+USER_0559,female,New York,48
+USER_0583,female,California,37
+USER_1371,female,Chicago,37
+USER_0060,male,New York,50
+USER_0423,male,Chicago,41
+USER_0183,male,Chicago,13
+USER_0456,female,New York,18
+USER_1000,female,Washington DC,50
+USER_0071,male,New York,39
+USER_0903,male,New York,31
+USER_1387,female,New Jersey,15
+USER_0127,female,California,28
+USER_1118,male,California,48
+USER_1341,male,California,8
+USER_0095,female,Chicago,33
+USER_0594,male,Chicago,4
+USER_1390,female,New York,22
+USER_1351,male,Chicago,13
+USER_0103,male,Chicago,37
+USER_0755,male,Washington DC,24
+USER_0932,female,California,34
+USER_1180,female,New York,18
+USER_1195,female,Chicago,20
+USER_0131,female,Chicago,39
+USER_0842,female,Chicago,25
+USER_0500,male,New Jersey,9
+USER_0640,female,California,25
+USER_0107,female,New Jersey,48
+USER_1062,female,Chicago,48
+USER_0013,female,New Jersey,10
+USER_0995,female,Chicago,23
+USER_0200,female,New York,5
+USER_0792,female,California,39
+USER_1197,male,Chicago,9
+USER_0773,female,Chicago,14
+USER_0830,female,Chicago,49
+USER_0202,female,New Jersey,25
+USER_0908,female,Chicago,48
+USER_0369,female,California,5
+USER_0746,female,Washington DC,29
+USER_1415,female,Washington DC,18
+USER_0666,female,California,37
+USER_1430,female,New York,9
+USER_0197,female,New York,38
+USER_0952,male,New York,34
+USER_0620,male,Chicago,21
+USER_1092,female,New York,10
+USER_0940,male,Washington DC,24
+USER_1121,female,New Jersey,37
+USER_1087,male,California,22
+USER_0255,female,California,41
+USER_0623,female,New York,32
+USER_0062,female,Washington DC,23
+USER_1150,male,Chicago,44
+USER_0741,female,California,30
+USER_0622,male,California,21
+USER_0975,male,Washington DC,6
+USER_1433,male,Chicago,24
+USER_0367,female,California,35
+USER_0299,male,New Jersey,30
+USER_1343,female,Washington DC,5
+USER_0832,female,Chicago,2
+USER_1440,female,California,26
+USER_0713,female,California,7
+USER_1130,female,New York,21
+USER_1149,male,California,24
+USER_0971,male,California,44
+USER_1182,female,Chicago,29
+USER_1142,male,California,23
+USER_0799,female,New Jersey,34
+USER_0870,female,New York,33
+USER_1059,female,California,39
+USER_0850,female,California,6
+USER_1361,male,Chicago,34
+USER_0982,female,Chicago,20
+USER_0443,female,Chicago,41
+USER_1365,female,Chicago,50
+USER_0990,female,Chicago,40
+USER_0985,male,Chicago,31
+USER_0660,female,Chicago,40
+USER_1242,female,California,37
+USER_0765,female,Chicago,17
+USER_0081,male,New York,28
+USER_0875,male,Chicago,44
+USER_0869,male,New York,11
+USER_0537,female,California,34
+USER_0795,female,Chicago,34
+USER_0189,female,Chicago,40
+USER_0874,female,California,21
+USER_0888,male,New Jersey,23
+USER_0933,female,California,9
+USER_0104,female,Chicago,20
+USER_0992,female,California,35
+USER_0117,female,Chicago,9
+USER_0779,female,New York,27
+USER_0122,female,California,48
+USER_0421,female,California,49
+USER_1393,female,Chicago,7
+USER_0502,male,Chicago,32
+USER_0313,female,New York,49
+USER_0234,male,Chicago,25
+USER_0897,female,California,32
+USER_1314,male,New York,3
+USER_0327,female,Washington DC,35
+USER_0068,male,California,3
+USER_1250,female,California,14
+USER_0938,male,New York,10
+USER_1095,female,Chicago,47
+USER_1452,female,New York,32
+USER_0480,female,California,18
+USER_0604,female,Chicago,31
+USER_1038,female,New York,34
+USER_1311,male,Chicago,2
+USER_0133,male,California,32
+USER_0206,male,Washington DC,10
+USER_0877,female,Washington DC,24
+USER_0101,female,California,25
+USER_0876,male,Chicago,27
+USER_1318,female,Chicago,48
+USER_1189,female,New Jersey,19
+USER_0667,female,Chicago,19
+USER_0880,female,Washington DC,24
+USER_0297,female,New York,22
+USER_0866,female,New York,46
+USER_0450,female,New York,7
+USER_0735,male,California,12
+USER_0634,female,Chicago,50
+USER_0492,female,New York,15
+USER_0035,female,New York,17
+USER_1060,female,New York,40
+USER_0670,male,California,17
+USER_0734,female,New Jersey,19
+USER_0590,female,Chicago,16
+USER_1108,male,Chicago,40
+USER_0625,female,California,34
+USER_1431,male,New York,3
+USER_1291,female,California,38
+USER_0678,female,New York,6
+USER_0424,female,New York,5
+USER_1362,female,New Jersey,49
+USER_0227,female,California,8
+USER_0662,female,California,8
+USER_1116,female,New York,10
+USER_1200,male,Chicago,8
+USER_1140,male,New York,25
+USER_0529,female,Chicago,41
+USER_1061,female,New Jersey,45
+USER_0872,female,New York,45
+USER_0578,female,California,30
+USER_1053,female,New York,30
+USER_1018,female,New York,34
+USER_0896,female,California,25
+USER_1315,male,Chicago,39
+USER_1042,female,Chicago,40
+USER_1152,female,Washington DC,31
+USER_0748,female,California,32
+USER_1187,female,California,10
+USER_1089,male,California,20
+USER_0187,male,California,39
+USER_1178,male,Chicago,13
+USER_0703,male,Chicago,33
+USER_0503,male,New York,15
+USER_1039,female,California,15
+USER_1096,female,New York,41
+USER_0931,female,California,20
+USER_0290,male,Chicago,6
+USER_0295,male,New York,25
+USER_1270,female,New Jersey,46
+USER_1185,female,Chicago,31
+USER_1349,male,Chicago,20
+USER_0458,female,New York,29
+USER_0807,female,New Jersey,10
+USER_1214,female,California,40
+USER_1081,female,New York,45
+USER_0153,female,New York,21
+USER_1367,male,California,50
+USER_0309,male,California,26
+USER_0631,female,California,21
+USER_0659,female,Chicago,35
+USER_0396,female,Chicago,40
+USER_1256,female,California,17
+USER_1160,female,California,37
+USER_1262,female,California,48
+USER_1296,female,New York,6
+USER_0819,male,California,22
+USER_0094,male,Chicago,27
+USER_0642,male,Chicago,46
+USER_1331,male,New Jersey,49
+USER_0914,male,Chicago,44
+USER_1327,female,Chicago,28
+USER_0658,female,California,22
+USER_0597,male,New York,30
+USER_0348,female,California,6
+USER_0446,female,New York,13
+USER_0266,female,Chicago,27
+USER_0747,female,California,46
+USER_1434,female,California,20
+USER_1263,female,New Jersey,31
+USER_0477,female,New Jersey,37
+USER_0311,male,Chicago,14
+USER_0778,female,New York,14
+USER_0581,male,New York,9
+USER_0292,female,California,22
+USER_0948,female,California,9
+USER_0655,male,Chicago,41
+USER_0890,female,Chicago,26
+USER_0661,female,New York,9
+USER_1312,female,New York,17
+USER_0352,female,New York,20
+USER_1110,female,California,17
+USER_0920,female,New York,47
+USER_0356,male,Chicago,21
+USER_0380,female,New York,40
+USER_0233,female,California,8
+USER_0865,female,California,18
+USER_0699,female,California,41
+USER_0001,male,New York,20
+USER_0601,female,New York,27
+USER_0964,male,Chicago,13
+USER_1248,female,New York,48
+USER_1078,female,Chicago,19
+USER_0966,male,New York,13
+USER_1127,female,Chicago,26
+USER_1289,female,New York,25
+USER_0139,female,California,45
+USER_0361,female,Chicago,33
+USER_0928,male,California,22
+USER_0680,male,Chicago,24
+USER_1428,female,Chicago,48
+USER_0977,female,California,49
+USER_1368,male,New Jersey,40
+USER_0624,male,Chicago,41
+USER_1097,female,Chicago,22
+USER_0199,female,California,28
+USER_0254,male,California,46
+USER_0193,female,Chicago,10
+USER_0102,male,Washington DC,36
+USER_0815,female,California,4
+USER_0010,male,California,38
+USER_0618,female,Chicago,3
+USER_1079,male,Washington DC,11
+USER_0317,female,California,46
+USER_0270,male,Chicago,2
+USER_1423,male,Chicago,34
+USER_0603,female,California,31
+USER_1244,female,Chicago,3
+USER_0839,female,California,7
+USER_0399,male,California,30
+USER_0370,female,New York,5
+USER_0029,female,Chicago,39
+USER_0239,male,California,47
+USER_0408,male,New York,50
+USER_1323,male,New Jersey,29
+USER_0917,male,New York,14
+USER_1012,female,California,47
+USER_0648,female,New York,28
+USER_1397,male,Chicago,6
+USER_0926,male,California,43
+USER_0218,female,Washington DC,37
+USER_0893,male,Chicago,9
+USER_1024,male,California,35
+USER_1055,male,Chicago,5
+USER_1106,female,New York,50
+USER_0788,male,California,16
+USER_1412,female,New York,18
+USER_0904,male,California,19
+USER_1328,female,Chicago,12
+USER_1215,male,New Jersey,49
+USER_1222,female,New York,13
+USER_0415,male,Chicago,6
+USER_0879,female,Chicago,37
+USER_0950,female,New York,23
+USER_0980,male,California,19
+USER_0663,female,California,4
+USER_1183,male,Chicago,25
+USER_1416,male,Washington DC,4
+USER_0214,male,New Jersey,44
+USER_1021,male,Chicago,39
+USER_0286,female,New York,38
+USER_0459,female,New York,10
+USER_1201,female,California,22
+USER_0483,female,Washington DC,18
+USER_1463,female,California,5
+USER_1313,male,New York,15
+USER_1047,male,New York,28
+USER_1465,male,Chicago,25
+USER_0124,female,Chicago,22
+USER_0732,female,Chicago,2
+USER_1448,female,California,31
+USER_0301,female,Chicago,13
+USER_0148,female,California,28
+USER_0656,female,New York,30
+USER_0802,female,California,18
+USER_0825,male,California,32
+USER_0326,female,California,34
+USER_1375,female,California,37
+USER_0256,male,Chicago,7
+USER_0566,male,Chicago,13
+USER_0633,female,Chicago,43
+USER_0198,female,New York,45
+USER_0215,female,Chicago,26
+USER_0303,female,New Jersey,48
+USER_0372,male,New York,35
+USER_0222,male,New York,34
+USER_0831,male,California,3
+USER_1403,female,New Jersey,30
+USER_0744,male,California,48
+USER_1221,female,California,36
+USER_0400,female,New York,34
+USER_0898,female,Chicago,26
+USER_0406,female,California,5
+USER_0955,female,Chicago,37
+USER_1032,female,New York,18
+USER_1050,male,New York,7
+USER_0902,male,New Jersey,10
+USER_1306,female,New York,2
+USER_1058,female,New York,42
+USER_0470,male,New York,46
+USER_0169,male,New York,9
+USER_0679,female,California,45
+USER_0512,female,New York,3
+USER_0163,female,New Jersey,4
+USER_0821,male,New Jersey,13
+USER_1425,male,California,34
+USER_0749,female,New Jersey,35
+USER_0039,female,California,49
+USER_0105,female,California,5
+USER_0075,male,California,44
+USER_1420,male,Chicago,24
+USER_0096,male,Chicago,15
+USER_0121,female,Chicago,37
+USER_0373,female,Chicago,44
+USER_0132,male,California,34
+USER_0273,female,New York,24
+USER_0044,female,California,28
+USER_1360,male,Chicago,47
+USER_1245,female,Chicago,16
+USER_0646,male,New Jersey,35
+USER_0024,female,New Jersey,43
+USER_0654,female,California,3
+USER_0493,female,New York,7
+USER_1273,male,California,22
+USER_0639,female,Washington DC,40
+USER_0515,female,New Jersey,10
+USER_0248,female,California,24
+USER_0528,female,California,17
+USER_0916,female,New York,41
+USER_1251,female,Chicago,36
+USER_1010,female,Washington DC,37
+USER_0886,female,New York,13
+USER_0700,female,New Jersey,20
+USER_0864,male,Chicago,4
+USER_0209,female,New York,10
+USER_0453,male,Chicago,26
+USER_1322,female,Chicago,28
+USER_0725,female,Chicago,37
+USER_0398,female,Chicago,13
+USER_0728,male,California,50
+USER_1399,female,Chicago,15
+USER_1083,female,California,20
+USER_1009,female,Chicago,45
+USER_1350,female,Chicago,29
+USER_0184,male,Chicago,29
+USER_0956,male,Chicago,7
+USER_1308,female,New York,34
+USER_1305,male,New Jersey,13
+USER_0082,male,Chicago,33
+USER_0973,female,Chicago,31
+USER_0149,male,New Jersey,20
+USER_1220,female,California,21
+USER_1457,female,California,36
+USER_1004,female,Chicago,31
+USER_1163,male,California,33
+USER_0702,female,Chicago,37
+USER_0516,male,New Jersey,19
+USER_0726,male,California,10
+USER_1029,male,California,50
+USER_0757,male,California,9
+USER_1253,male,California,34
+USER_1388,female,New York,39
+USER_0135,male,California,33
+USER_1258,female,New Jersey,34
+USER_1210,female,New York,17
+USER_0851,female,Chicago,27
+USER_0268,female,Chicago,14
+USER_1321,female,New York,21
+USER_0219,female,California,48
+USER_0790,female,Chicago,24
+USER_0073,female,New York,37
+USER_0740,female,California,48
+USER_0709,male,California,40
+USER_0805,female,California,39
+USER_0939,female,Chicago,22
+USER_1112,female,California,16
+USER_1285,female,California,23
+USER_0592,female,Chicago,42
+USER_0589,female,New York,50
+USER_0245,male,California,30
+USER_0397,female,New York,15
+USER_1274,female,Chicago,28
+USER_0849,male,Chicago,33
+USER_1320,female,California,2
+USER_1156,male,New York,46
+USER_1353,male,California,32
+USER_0958,male,California,38
+USER_1370,male,California,12
+USER_0177,male,New Jersey,32
+USER_1342,female,Washington DC,34
+USER_0111,female,California,28
+USER_0509,male,New York,20
+USER_0422,female,New York,31
+USER_1379,male,New Jersey,7
+USER_0834,female,Washington DC,4
+USER_1041,female,Chicago,46
+USER_0409,male,California,24
+USER_0472,female,Chicago,7
+USER_0547,male,Chicago,11
+USER_0915,female,New York,20
+USER_1432,female,Chicago,38
+USER_0905,female,California,34
+USER_1445,female,New York,33
+USER_1418,female,Chicago,47
+USER_0226,male,New York,16
+USER_0174,female,California,5
+USER_0430,male,Chicago,11
+USER_0871,male,New York,34
+USER_0129,female,New Jersey,36
+USER_1064,female,California,11
+USER_0784,male,Chicago,22
+USER_0357,female,New Jersey,35
+USER_1366,male,Chicago,12
+USER_1186,female,New York,19
+USER_1026,female,Chicago,2
+USER_1098,male,California,6
+USER_0418,female,California,18
+USER_0698,female,Chicago,19
+USER_1407,female,Chicago,16
+USER_0519,female,California,42
+USER_0780,female,New York,45
+USER_1198,male,California,46
+USER_1117,female,New York,23
+USER_0442,female,California,13
+USER_1167,female,Chicago,32
+USER_0715,female,Chicago,28
+USER_0557,male,California,36
+USER_0119,female,New York,13
+USER_1194,female,California,28
+USER_1232,female,New York,4
+USER_0978,male,California,20
+USER_0150,female,New Jersey,24
+USER_1381,female,California,40
+USER_0901,male,California,5
+USER_1158,female,California,19
+USER_0330,female,Chicago,15
+USER_0584,female,Chicago,4
+USER_1176,male,Chicago,8
+USER_0793,male,New York,40
+USER_0899,female,New York,16
+USER_0506,female,Chicago,34
+USER_1404,female,Chicago,30
+USER_0395,male,California,38
+USER_1044,female,Chicago,31
+USER_0769,male,Chicago,39
+USER_0668,female,California,31
+USER_1386,male,New York,38
+USER_0564,female,California,48
+USER_1297,female,Chicago,17
+USER_0536,female,California,8
+USER_1410,male,New Jersey,46
+USER_0238,male,California,50
+USER_0057,female,Chicago,25
+USER_0244,female,New York,50
+USER_0750,male,New York,2
+USER_0827,male,California,16
+USER_0478,female,New York,17
+USER_0241,female,California,18
+USER_0402,female,Chicago,48
+USER_0533,female,Chicago,25
+USER_0863,male,New York,44
+USER_1051,female,Washington DC,14
+USER_1119,female,Chicago,45
+USER_1402,female,New York,20
+USER_0548,male,California,6
+USER_1219,female,New Jersey,40
+USER_1192,female,California,5
+USER_1344,female,Chicago,14
+USER_0553,female,California,39
+USER_1063,female,California,19
+USER_1208,female,Chicago,39
+USER_0570,male,Chicago,46
+USER_1295,male,New York,26
+USER_1173,female,New Jersey,31
+USER_1271,female,California,4
+USER_0036,male,Chicago,14
+USER_1207,male,Chicago,16
+USER_1374,female,Chicago,27
+USER_1234,male,New Jersey,21
+USER_1231,male,New Jersey,24
+USER_1396,female,California,11
+USER_0691,female,Chicago,29
+USER_0242,female,Chicago,33
+USER_0843,female,Chicago,24
+USER_0540,female,New Jersey,48
+USER_0267,female,Chicago,24
+USER_0360,female,New Jersey,40
+USER_0392,female,Chicago,9
+USER_0181,female,Chicago,48
+USER_0454,female,Chicago,24
+USER_0943,female,New York,44
+USER_0994,female,New York,46
+USER_1422,female,New York,12
+USER_0774,female,Chicago,23
+USER_1028,male,New York,15
+USER_0539,female,New York,15
+USER_1437,male,California,28
+USER_0027,female,Chicago,32
+USER_1085,female,New York,12
+USER_0649,male,Washington DC,34
+USER_1146,female,New York,15
+USER_0997,male,Chicago,12
+USER_0918,male,California,21
+USER_0957,male,California,11
+USER_1179,female,New Jersey,19
+USER_0416,male,New York,39
+USER_0635,male,California,27
+USER_0235,female,California,9
+USER_1413,female,California,9
+USER_1086,female,New York,40
+USER_0942,male,Chicago,19
+USER_0006,female,New York,21
+USER_0482,male,Chicago,41
+USER_1172,male,California,17
+USER_0508,male,New Jersey,47
+USER_1109,female,Chicago,36
+USER_1013,male,New Jersey,28
+USER_1243,female,New Jersey,11
+USER_1023,female,New York,19
+USER_1084,female,Chicago,15
+USER_1006,female,Chicago,29
+USER_1332,female,California,7
+USER_0247,male,California,19
+USER_0136,male,New Jersey,15
+USER_0207,male,California,33
+USER_0146,male,Chicago,32
+USER_0759,male,California,50
+USER_0371,female,New Jersey,4
+USER_0501,female,California,20
+USER_0934,female,California,9
+USER_1300,female,New York,11
+USER_0440,male,Chicago,48
+USER_0296,female,New York,21
+USER_0320,female,New York,5
+USER_1128,female,California,6
+USER_1257,male,New Jersey,15
+USER_1255,female,Chicago,24
+USER_1191,male,California,29
+USER_0145,male,New Jersey,34
+USER_0887,male,Chicago,44
+USER_0782,female,California,42
+USER_1272,male,New York,11
+USER_0287,female,California,33
+USER_0510,female,California,13
+USER_0900,female,California,10
+USER_0204,female,Washington DC,2
+USER_0283,male,Chicago,38
+USER_0684,female,New York,40
+USER_1144,male,California,47
+USER_0243,female,New York,35
+USER_0452,female,California,12
+USER_1319,female,New Jersey,11
+USER_0854,female,Chicago,4
+USER_0930,female,New York,5
+USER_1278,male,Chicago,32
+USER_1414,female,California,48
+USER_0644,male,Washington DC,4
+USER_0088,male,California,13
+USER_0817,female,Chicago,6
+USER_0217,male,New York,4
+USER_1184,female,California,28
+USER_0770,male,California,28
+USER_0676,female,California,22
+USER_0158,female,Chicago,21
+USER_0835,female,Chicago,40
+USER_1400,male,New York,47
+USER_0729,female,New York,3
+USER_1335,female,California,38
+USER_0812,male,Washington DC,19
+USER_0064,female,New Jersey,10
+USER_1147,female,Washington DC,29
+USER_0366,female,New York,38
+USER_1301,female,Chicago,17
+USER_0253,female,Washington DC,12
+USER_1352,female,Chicago,35
+USER_0823,male,New York,10
+USER_1177,female,New York,42
+USER_1264,female,Chicago,7
+USER_1034,female,California,31
+USER_0265,female,Chicago,17
+USER_0383,female,New York,31
+USER_1136,female,California,18
+USER_0720,female,California,2
+USER_1134,female,New York,13
+USER_0775,female,New York,18
+USER_0910,female,California,15
+USER_0628,female,California,50
+USER_1045,female,Chicago,48
+USER_1131,female,Chicago,5
+USER_1052,female,California,18
+USER_0998,female,New York,13
+USER_0507,female,New Jersey,7
+USER_0797,female,Chicago,41
+USER_0173,male,California,23
+USER_1069,male,New York,16
+USER_0636,male,New York,12
+USER_1067,female,California,9
+USER_1170,male,California,5
+USER_0151,female,New Jersey,23
+USER_0760,female,New Jersey,38
+USER_0567,female,New Jersey,41
+USER_0756,female,California,10
+USER_0485,female,New Jersey,49
+USER_1205,male,California,3
+USER_0591,male,New York,45
+USER_0690,female,New Jersey,43
+USER_1334,female,New York,42
+USER_0968,female,Chicago,44
+USER_0813,male,Chicago,48
+USER_0846,female,Chicago,28
+USER_1025,male,California,49
+USER_0304,female,California,20
+USER_1286,male,Chicago,30
+USER_0612,male,Chicago,40
+USER_0841,male,Washington DC,26
+USER_0495,female,Chicago,40
+USER_1444,male,New York,19
+USER_0753,male,California,37
+USER_0598,male,Chicago,46
+USER_0960,male,New York,24
+USER_1453,male,Washington DC,44
+USER_0789,female,California,23
+USER_1088,female,Chicago,31
+USER_1048,male,California,43
+USER_0490,male,California,41
+USER_1124,female,Chicago,9
+USER_0571,female,Washington DC,4
+USER_0704,female,Chicago,45
+USER_0460,female,California,19
+USER_0379,female,California,39
+USER_1464,male,New York,43
+USER_1356,male,Chicago,25
+USER_1239,male,Chicago,6
+USER_0002,male,California,39
+USER_0653,female,New York,4
+USER_0180,female,California,37
+USER_0552,male,Chicago,40
+USER_0160,female,New York,44
+USER_0323,female,Chicago,49
+USER_0058,male,Chicago,41
+USER_0128,female,Chicago,19
+USER_0608,female,Chicago,26
+USER_0844,male,California,19
+USER_0019,female,California,37
+USER_1213,female,New York,10
+USER_1054,female,Chicago,34
+USER_0108,male,Chicago,25
+USER_0707,male,New Jersey,29
+USER_1372,male,New York,37
+USER_1137,female,Chicago,3
+USER_0692,female,Chicago,30
+USER_0405,male,California,41
+USER_0188,male,California,50
+USER_0098,female,California,7
+USER_0376,female,New Jersey,6
+USER_0439,male,California,29
+USER_0100,female,New Jersey,45
+USER_1102,male,New York,27
+USER_1380,female,New York,29
+USER_0089,female,California,32
+USER_0527,female,Washington DC,10
+USER_1226,female,Chicago,6
+USER_1049,male,New York,31
+USER_1460,female,Washington DC,5
+USER_1223,male,New York,32
+USER_1462,male,California,45
+USER_0936,male,Chicago,29
+USER_0008,female,California,27
+USER_0572,male,California,45
+USER_0164,female,California,43
+USER_0737,female,Chicago,47
+USER_0428,male,New York,32
+USER_0431,male,Chicago,23
+USER_0210,female,New York,20
+USER_1181,female,Chicago,29
+USER_0185,female,New York,15
+USER_1299,male,California,25
+USER_1159,female,New Jersey,23
+USER_0433,male,California,8
+USER_0787,female,New York,21
+USER_1427,female,New York,6
+USER_0771,female,New York,4
+USER_0665,male,New York,2
+USER_0022,male,New York,9
+USER_0093,male,New York,27
+USER_0708,male,Chicago,16
+USER_1209,female,California,9
+USER_0599,female,New Jersey,21
+USER_0186,female,New York,35
+USER_0959,female,Chicago,37
+USER_0291,male,Washington DC,6
+USER_0050,female,New York,28
+USER_1241,female,California,45
+USER_1290,female,New York,22
+USER_0393,female,Chicago,16
+USER_0543,female,Chicago,30
+USER_0112,female,California,27
+USER_0647,female,California,18
+USER_1196,female,California,28
+USER_0542,female,Chicago,44
+USER_0009,male,New York,32
+USER_0796,female,New York,26
+USER_0803,male,Chicago,6
+USER_0388,female,New Jersey,11
+USER_0363,male,California,14
+USER_0067,female,New Jersey,4
+USER_0231,female,Chicago,31
+USER_0260,male,California,12
+USER_0264,male,California,42
+USER_1099,female,California,3
+USER_0963,female,California,20
+USER_0168,female,Chicago,44
+USER_0524,female,Chicago,42
+USER_0278,male,California,40
+USER_0332,male,Washington DC,34
+USER_0040,female,New York,39
+USER_0693,male,New York,28
+USER_1259,female,Chicago,47
+USER_0596,female,New York,33
+USER_0461,female,New York,39
+USER_0551,female,California,25
+USER_0250,male,Chicago,38
+USER_1238,female,New York,2
+USER_0065,female,Chicago,8
+USER_0861,male,New York,6
+USER_0925,female,Chicago,16
+USER_0324,female,New York,22
+USER_1033,male,Chicago,32
+USER_0822,female,California,24
+USER_1014,female,New York,7
+USER_0723,female,Chicago,22
+USER_0573,male,California,2
+USER_1077,male,Chicago,39
+USER_1288,female,California,26
+USER_0669,female,New Jersey,4
+USER_0201,male,Chicago,45
+USER_0772,female,Chicago,40
+USER_1455,female,New Jersey,40
+USER_1417,female,California,25
+USER_0018,male,Chicago,29
+USER_0048,female,Chicago,36
+USER_1230,male,Chicago,8
+USER_0474,female,California,31
+USER_0833,female,Chicago,16
+USER_0272,male,California,43
+USER_1302,female,Chicago,32
+USER_1046,female,New York,4
+USER_0993,male,New Jersey,29
+USER_1467,female,New Jersey,36
+USER_0113,male,Washington DC,5
+USER_0350,male,New York,14
+USER_0328,male,Chicago,44
+USER_0016,female,New Jersey,15
+USER_0486,male,Chicago,27
+USER_0257,female,California,43
+USER_0862,male,Chicago,22
+USER_0921,female,Chicago,16
+USER_0237,female,Chicago,50
+USER_1027,female,California,20
+USER_0626,female,New York,25
+USER_0055,male,California,29
+USER_1019,female,California,10
+USER_1103,female,Chicago,23
+USER_0999,female,Chicago,36
+USER_0346,male,New York,20
+USER_0046,male,Chicago,8
+USER_0810,female,Chicago,40
+USER_0688,male,New Jersey,16
+USER_0042,male,California,2
+USER_1324,female,Chicago,4
+USER_1449,female,Chicago,29
+USER_0041,male,California,44
+USER_1446,female,New York,6
+USER_1203,female,New York,38
+USER_0246,male,Chicago,30
+USER_0637,male,Chicago,6
+USER_0038,male,California,22
+USER_0580,male,New York,8
+USER_0316,male,California,28
+USER_0230,female,New York,14
+USER_0236,female,New York,42
+USER_1162,male,California,35
+USER_0162,female,Chicago,19
+USER_0811,female,New York,4
+USER_1165,male,California,19
+USER_0674,female,Chicago,20
+USER_0970,male,Washington DC,6
+USER_1168,female,New York,47
+USER_0606,female,California,17
+USER_1280,female,Chicago,27
+USER_0083,male,New York,44
+USER_1066,male,New Jersey,42
+USER_1090,female,California,46
+USER_1345,female,Chicago,12
+USER_1070,male,Chicago,41
+USER_0605,female,New Jersey,50
+USER_1017,female,New Jersey,17
+USER_0310,female,New Jersey,8
+USER_0848,male,New Jersey,31
+USER_1409,female,Chicago,37
+USER_0285,male,California,12
+USER_0617,female,New York,31
+USER_0056,male,Chicago,13
+USER_0045,female,Washington DC,46
+USER_1443,male,New York,21
+USER_0962,female,Chicago,40
+USER_0052,female,Washington DC,20
+USER_1348,male,California,35
+USER_1094,male,California,22
+USER_0488,female,Washington DC,24
+USER_0739,male,Chicago,45
+USER_1357,male,California,8
+USER_0331,female,New Jersey,45
+USER_0463,male,Chicago,29
+USER_0211,female,California,20
+USER_1003,female,California,16
+USER_0965,female,Chicago,12
+USER_0727,female,California,36
+USER_0114,female,New York,3
+USER_0289,female,New York,5
+USER_0487,female,Chicago,29
+USER_0012,female,Chicago,39
+USER_1333,female,Chicago,35
+USER_0974,female,New York,20
+USER_0072,female,California,10
+USER_0224,male,California,38
+USER_0743,female,California,15
+USER_0754,female,New York,38
+USER_0079,male,New York,48
+USER_0481,female,Chicago,7
+USER_0909,female,New York,26
+USER_1229,female,New York,11
+USER_0701,female,Washington DC,11
+USER_0579,female,New York,39
+USER_1426,female,Chicago,14
+USER_0785,female,New Jersey,7
+USER_0838,female,Chicago,44
+USER_0455,female,California,29
+USER_0798,male,California,32
+USER_0110,female,California,5
+USER_1283,female,California,41
+USER_0355,male,New York,30
+USER_0106,male,California,19
+USER_0375,male,California,32
+USER_1082,female,Chicago,7
+USER_0951,male,California,34
+USER_0476,male,New York,6
+USER_0087,female,Chicago,10
+USER_0051,female,Chicago,35
+USER_1040,male,Chicago,40
+USER_0976,female,New York,49
+USER_1022,female,Chicago,4
+USER_0005,male,New York,41
+USER_0884,female,California,11
+USER_0558,female,Chicago,30
+USER_0593,female,New Jersey,2
+USER_0448,female,California,19
+USER_0028,female,New Jersey,50
+USER_0410,female,New York,10
+USER_0084,male,New York,21
+USER_0538,female,Chicago,29
+USER_0696,female,New Jersey,48
+USER_0444,male,California,29
+USER_1148,female,Chicago,39
+USER_1228,male,New York,39
+USER_0258,female,Chicago,14
+USER_1005,male,New Jersey,6
+USER_0166,female,New York,18
+USER_0859,female,New York,46
+USER_1447,male,California,8
+USER_0401,male,Chicago,49
+USER_0432,male,California,18
+USER_0767,female,California,34
+USER_0967,male,California,35
+USER_0652,male,Chicago,36
+USER_0983,male,Washington DC,18
+USER_0781,female,New Jersey,15
+USER_0321,male,Chicago,20
+USER_0249,female,California,25
+USER_0826,male,New York,20
+USER_1001,female,California,37
+USER_0043,female,New York,26
+USER_0090,female,California,43
+USER_0275,female,Chicago,26
+USER_0814,female,New Jersey,8
+USER_0059,female,Chicago,8
+USER_0710,male,Washington DC,41
+USER_0445,male,California,37
+USER_1429,female,California,49
+USER_0664,male,Chicago,10
+USER_0489,female,California,22
+USER_0984,male,Chicago,40
+USER_0945,female,California,28
+USER_0354,male,New Jersey,17
+USER_0157,male,California,45
+USER_1031,female,Chicago,4
+USER_0335,male,Chicago,42
+USER_0194,male,New Jersey,15
+USER_0191,male,Chicago,45
+USER_1419,female,Chicago,10
+USER_0325,male,Chicago,21
+USER_1093,male,New York,31
+USER_1151,male,Chicago,7
+USER_1294,male,New York,21
+USER_0824,male,New York,24
+USER_0077,female,California,30
+USER_0651,male,New Jersey,17
+USER_0011,male,Chicago,31
+USER_0302,female,California,44
+USER_0829,male,Chicago,12
+USER_0738,female,California,28
+USER_0091,male,California,4
+USER_0731,male,California,40
+USER_1401,female,Chicago,45
+USER_0134,male,California,24
+USER_0178,female,Chicago,45
+USER_0429,male,California,25
+USER_0467,male,New York,21
+USER_1329,female,Chicago,30
+USER_0389,female,Washington DC,21
+USER_0574,male,Chicago,2
+USER_0374,male,New York,45
+USER_1451,female,California,37
+USER_0479,male,New Jersey,22
+USER_0382,male,California,36
+USER_1458,female,New Jersey,2
+USER_1139,male,Chicago,26
+USER_0469,female,Chicago,26
+USER_0004,female,Chicago,31
+USER_0000,female,New York,31
+USER_0385,female,New Jersey,23
+USER_1125,female,Chicago,2
+USER_1135,female,New Jersey,35
+USER_0053,female,Chicago,25
+USER_0761,male,Chicago,4
+USER_0049,female,California,25
+USER_0333,male,Chicago,3
+USER_0252,male,New Jersey,16
+USER_0511,female,Chicago,23
+USER_0030,male,Washington DC,49
+USER_0021,male,Chicago,50
+USER_1325,male,New York,44
+USER_0426,female,California,32
+USER_0809,female,Washington DC,15
+USER_0857,female,California,39
+USER_0263,male,New Jersey,15
+USER_0645,female,Chicago,42
+USER_1292,male,Chicago,40
+USER_0554,female,California,43
+USER_0298,female,California,32
+USER_0616,female,New Jersey,25
+USER_0883,female,Chicago,34
+USER_0078,female,California,13
+USER_1247,male,Chicago,26
+USER_0614,male,Chicago,17
+USER_0969,male,New York,18
+USER_0722,female,California,40
+USER_1364,female,Chicago,17
+USER_1105,male,Chicago,16
+USER_0014,female,California,22
+USER_1339,female,New York,33
+USER_0764,male,California,6
+USER_0609,male,New York,39
+USER_1113,female,Washington DC,16
+USER_0697,male,Chicago,34
+USER_0638,male,California,42
+USER_0070,female,California,13
+USER_1265,female,Chicago,9
+USER_0981,female,California,20
+USER_0086,male,Chicago,14
+USER_1036,female,New York,11
+USER_1202,female,California,31
+USER_0425,male,Washington DC,39
+USER_1161,male,Chicago,35
+USER_0586,female,California,16
+USER_0171,female,California,2
+USER_1373,female,New Jersey,40
+USER_1304,female,Chicago,5
+USER_1326,female,New York,6
+USER_0155,female,New York,2
+USER_1338,male,New York,32
+USER_0521,female,New York,29
+USER_0919,male,California,15
+USER_0329,female,Chicago,8
+USER_0695,male,California,2
+USER_0766,male,Chicago,27
+USER_0462,female,Chicago,3
+USER_0343,female,California,6
+USER_1310,female,Chicago,12
+USER_0109,male,Chicago,6
+USER_0419,male,California,32
+USER_0196,female,California,47
+USER_0494,female,New York,4
+USER_0777,female,New Jersey,2
+USER_0061,female,California,25
+USER_0364,female,California,7
+USER_0534,female,Chicago,20
+USER_0615,male,California,12
+USER_1363,female,Chicago,37
+USER_0514,female,New York,48
+USER_1441,female,California,47
+USER_0853,female,New Jersey,8
+USER_1436,male,Chicago,28
+USER_1043,female,New Jersey,3
+USER_0099,female,Chicago,4
+USER_0076,male,New Jersey,26
+USER_0277,male,Chicago,25
+USER_0161,female,New York,23
+USER_1065,female,Washington DC,9
+USER_0546,female,California,24
+USER_0307,female,Chicago,46
+USER_0020,female,California,38
+USER_0847,female,California,27
+USER_0671,female,Chicago,33
+USER_0435,female,New York,50
+USER_0714,female,California,26
+USER_0322,female,California,11
+USER_0386,female,California,10
+USER_0228,female,New York,47
+USER_0473,female,Chicago,38
+USER_0712,male,New York,11
+USER_0686,female,New Jersey,8
+USER_0544,male,California,14
+USER_0891,female,New York,12
+USER_1074,female,Chicago,22
+USER_0143,male,New York,42
+USER_0362,female,California,33
+USER_1405,female,California,25
+USER_1466,female,Chicago,47
+USER_0497,male,Washington DC,38
+USER_0336,female,Chicago,18
+USER_0742,female,Chicago,47
+USER_0116,male,New York,16
+USER_0949,female,New York,45
+USER_0491,female,Chicago,3
+USER_0232,female,Chicago,24
+USER_1123,male,Washington DC,34
+USER_1268,female,California,44
+USER_1157,female,California,30
+USER_0471,male,Chicago,34
+USER_0074,female,Chicago,3
+USER_0179,female,Washington DC,44
+USER_0929,female,New Jersey,22
+USER_0192,male,New York,3
+USER_0549,female,California,48
+USER_0280,female,New York,7
+USER_0414,male,Chicago,45
+USER_0912,female,California,19
+USER_0852,female,Chicago,32
+USER_0368,female,California,5
+USER_1166,female,New Jersey,49
+USER_0565,female,New York,33
+USER_0464,female,New Jersey,2
+USER_1155,female,California,24
+USER_1056,male,New Jersey,38
+USER_0208,female,California,5
+USER_1143,female,California,32
+USER_0069,female,California,25
+USER_1340,female,California,9
+USER_0927,female,New York,34
+USER_0989,female,Chicago,45
+USER_0347,male,New York,7
+USER_0717,male,Washington DC,42
+USER_0176,female,California,45
+USER_0711,female,California,15
+USER_1115,male,Washington DC,47
+USER_1100,male,Chicago,28
+USER_0517,female,California,44
+USER_1002,male,California,16
+USER_0123,female,Chicago,25
+USER_1211,female,California,6
+USER_0878,female,California,8
+USER_1126,male,New York,44
+USER_0650,female,New York,46
+USER_0588,male,Chicago,43
+USER_0080,female,New Jersey,50
+USER_0032,female,California,9
+USER_1075,male,Washington DC,29
+USER_0600,male,Chicago,13
+USER_1275,female,New York,37
+USER_0468,female,California,46
+USER_1435,female,Chicago,3
+USER_0269,male,Chicago,18
+USER_0794,female,Chicago,5
+USER_0868,female,California,17
+USER_0576,male,California,36
+USER_1174,female,Chicago,35
+USER_0672,male,Chicago,12
+USER_0063,female,California,48
+USER_0271,female,New York,47
+USER_0308,female,New York,50
+USER_0142,male,New York,11
+USER_0305,male,New York,32
+USER_1073,female,California,33
+USER_0436,female,Chicago,32
+USER_1011,male,New York,6
+USER_0575,female,New York,42
+USER_0223,female,Chicago,25
+USER_0752,male,Chicago,30
+USER_0338,female,Chicago,28
+USER_0339,female,New York,22
+USER_1216,female,Chicago,9
+USER_0621,male,New York,20
+USER_1107,male,New Jersey,49
+USER_0801,female,California,21
+USER_0561,female,New York,33
+USER_0229,female,Chicago,4
+USER_0762,male,Chicago,27
+USER_1252,male,Chicago,7
+USER_1261,female,New York,27
+USER_0535,male,Chicago,22
+USER_0054,female,New York,43
+USER_0768,male,New York,24
+USER_1212,male,Washington DC,24
+USER_1233,male,New Jersey,11
+USER_1439,female,Chicago,36
+USER_0526,female,Chicago,34
+USER_0152,male,Washington DC,32
+USER_0689,female,Chicago,35
+USER_0611,female,New York,42
+USER_0986,female,California,26
+USER_0988,male,California,48
+USER_1298,female,New York,30
+USER_0126,female,Chicago,42
+USER_1199,female,New York,43
+USER_1293,female,California,28
+USER_0404,female,New Jersey,3
+USER_0318,female,California,13
+USER_0673,male,New Jersey,8
+USER_1171,female,Chicago,24
+USER_0381,female,Chicago,22
+USER_1035,female,California,17
+USER_0569,female,Chicago,46
+USER_1225,female,Chicago,8
+USER_0037,female,California,10
+USER_0137,male,Chicago,6
+USER_0390,male,Chicago,36
+USER_1068,female,New York,29
+USER_0319,female,California,28
+USER_0294,male,California,33
+USER_0159,female,Chicago,26
+USER_0991,female,California,50
+USER_1145,female,New York,10
+USER_0706,male,California,19
+USER_1008,female,New Jersey,19
+USER_0007,female,New York,23
+USER_1450,female,New Jersey,18
+USER_0125,male,California,21
+USER_0550,female,Chicago,22
+USER_0894,female,California,13
+USER_0924,male,Chicago,29
+USER_1235,female,New Jersey,34
+USER_0213,female,New York,36
+USER_1057,female,California,44
+USER_0092,female,California,38
+USER_0885,female,California,32
+USER_0892,female,Chicago,39
+USER_0577,female,Chicago,4
+USER_0522,female,New Jersey,4
+USER_0804,female,California,11
+USER_0505,female,New York,17
+USER_1281,female,California,19
+USER_0716,female,Chicago,37
+USER_0523,female,California,38
+USER_0937,female,New York,24
+USER_0342,female,New York,2
+USER_0434,female,Chicago,17
+USER_0979,female,Chicago,4
+USER_0384,female,New York,16
+USER_0365,male,Chicago,42
+USER_1461,male,Chicago,15
+USER_0724,female,Chicago,36
+USER_0449,female,California,50
+USER_1408,male,Chicago,37
+USER_0763,female,California,49
+USER_1254,female,New York,42
+USER_0017,male,New York,43
+USER_0619,female,California,37
+USER_0175,female,California,47
+USER_0003,male,California,25
+USER_1132,female,California,7
+USER_1218,female,California,44
+USER_0987,female,California,20
+USER_1154,female,Chicago,15
+USER_0378,male,Chicago,24
+USER_1227,female,California,46
+USER_0276,male,Washington DC,6
+USER_0047,female,California,23
+USER_0972,female,New York,41
+USER_0907,female,New York,50
+USER_0411,male,California,49
+USER_0359,female,California,27
+USER_1309,male,California,39
+USER_0031,male,New York,26
+USER_0314,female,California,47
+USER_0545,female,New Jersey,12
+USER_0306,male,New York,24
+USER_0873,female,California,39
+USER_0532,male,California,42
+USER_1266,female,California,25
+USER_0240,female,Chicago,4
+USER_1217,female,Washington DC,8
+USER_0377,female,New York,17
+USER_1122,female,New Jersey,7
+USER_0120,female,California,11
+USER_0015,male,California,8
+USER_1385,male,California,4
+USER_0613,male,Chicago,26
+USER_1269,female,California,20
+USER_1188,female,Chicago,22
+USER_0220,male,California,37
+USER_0341,female,Chicago,48
+USER_0262,male,Chicago,14
+USER_0141,female,New Jersey,27
+USER_0923,female,New York,50
+USER_1206,female,Chicago,14
+USER_0681,female,Chicago,17
+USER_0705,female,New Jersey,41
+USER_0387,male,Chicago,30
+USER_0451,male,Chicago,19
+USER_0629,female,New Jersey,14
+USER_0315,male,Chicago,35
+USER_1164,female,New Jersey,38
+USER_0513,female,New York,41
+USER_0167,female,Chicago,48
+USER_0845,male,New Jersey,19
+USER_0504,female,New York,45
+USER_0562,female,California,7
