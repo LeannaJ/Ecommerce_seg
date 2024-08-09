@@ -35,7 +35,7 @@ Apply various customer segmentation techniques such as RFM, Cohort, and Clusteri
 - `Potential`: Low F (F<=3)
 - `Loyal`: Low M (M<=3)
 
-### Outline
+## Outline
 0. Load Data
 1. R, F, M(Recency, Frequency, Monetary)
 2. Clustering
