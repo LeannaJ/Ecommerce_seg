@@ -34,3 +34,11 @@ Apply various customer segmentation techniques such as RFM, Cohort, and Clusteri
 - `Churn`: Low R (R<=3)
 - `Potential`: Low F (F<=3)
 - `Loyal`: Low M (M<=3)
+
+### Outline
+0. Load Data
+1. R, F, M(Recency, Frequency, Monetary)
+2. Clustering
+3. Set weights of RFM with K-Means
+4. Examine detailed RFM segments
+5. Propose customer segment strategies
